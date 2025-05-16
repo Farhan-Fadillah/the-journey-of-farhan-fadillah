@@ -15,6 +15,6 @@ Data Science Methodology.
 ---
 #####
 Check Out my CV at
-![CV](https://github.com/Farhan-Fadillah/portfolio-farhan-fadillah/blob/main/CV-PDF/CV%20ATS%20Farhan%20Fadillah%20New.pdf)
+[CV](https://github.com/Farhan-Fadillah/portfolio-farhan-fadillah/blob/main/CV-PDF/CV%20ATS%20Farhan%20Fadillah%20New.pdf)
 
 Thank You
