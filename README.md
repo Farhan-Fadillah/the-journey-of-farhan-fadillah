@@ -13,6 +13,8 @@ trajectory reflects a dynamic blend of hands-on technical expertise and
 strategic insight, positioning me as a forward-thinking professional who
 thrives at the intersection of automation and data-driven decisionmaking.
 
+![rpa](https://github.com/Farhan-Fadillah/picture_list/blob/cc4c2b90228546d535cf68258bd555af63db3438/rpa.png) ![ds](https://github.com/Farhan-Fadillah/picture_list/blob/cc4c2b90228546d535cf68258bd555af63db3438/data%20science.png) ![backend](https://github.com/Farhan-Fadillah/picture_list/blob/a78954dd4af9fa85d66866fa2e1f04c7f341a114/backend.jpg)
+
 ---
 
 Beginning with foundational roles in backend development, i 
