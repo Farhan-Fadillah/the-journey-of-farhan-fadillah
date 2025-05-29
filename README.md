@@ -24,7 +24,7 @@ technology startups, and corporate enterprises, where i have
 consistently delivered solutions that optimize workflows and enhance
 operational performance. my expertise in designing and
 implementing automation frameworks using UiPath, coupled with my
-proficiency in data analytics and machine learning, underscores his role
+proficiency in data analytics and machine learning, underscores my role
 as a catalyst for digital transformation.
 
 ---
@@ -73,7 +73,7 @@ integration, has been instrumental in shaping my capabilities and
 preparing me for the dynamic demands of the tech industry
 
 I also completed the IBM Data Science Methodology certification,
-which deepened his understanding of the end-to-end data science
+which deepened my understanding of the end-to-end data science
 lifecycle, from problem formulation to deployment. This comprehensive
 training enhanced his ability to structure projects methodically, ensuring
 robust and scalable solutions. Additionally, my certifications in Business
@@ -103,15 +103,15 @@ between frontend and backend components. This role laid the
 groundwork for his technical expertise, emphasizing clean code
 practices, system scalability, and collaborative development within agile
 teams. The experience sharpened his problem-solving skills and
-introduced him to the importance of automation in streamlining
+introduced me to the importance of automation in streamlining
 development workflows.
 
 Beyond backend development, My internship experiences also
-introduced him to the world of Robotic Process Automation (RPA).
+introduced me to the world of Robotic Process Automation (RPA).
 Working alongside experienced developers, i engaged in projects that
 involved automating routine operational tasks, gaining practical
 knowledge of RPA tools and methodologies. This early exposure was
-critical in shaping his understanding of how automation can transform
+critical in shaping my understanding of how automation can transform
 business processes by reducing manual effort and increasing accuracy.
 
 The collaborative nature of these internships helped me develop
