@@ -108,6 +108,8 @@ specialized roles focusing on Robotic Process Automation (RPA) and data
 science, reflecting a clear trajectory of growth and increasing
 responsibility.
 
+![system](https://github.com/Farhan-Fadillah/picture_list/blob/5eeb44addb2c57064bd1ac4f7e7952c8f40d90d0/system%20design.png)
+
 Starting as a Backend Developer at Sribulancer from January to May
 2020, i was deeply involved in building robust backend systems
 using technologies such as Node.js, GraphQL, and SQL. His
@@ -120,6 +122,8 @@ teams. The experience sharpened his problem-solving skills and
 introduced me to the importance of automation in streamlining
 development workflows.
 
+![node](https://github.com/Farhan-Fadillah/picture_list/blob/5eeb44addb2c57064bd1ac4f7e7952c8f40d90d0/node%20graph.jpg)
+
 Beyond backend development, My internship experiences also
 introduced me to the world of Robotic Process Automation (RPA).
 Working alongside experienced developers, i engaged in projects that
@@ -128,11 +132,15 @@ knowledge of RPA tools and methodologies. This early exposure was
 critical in shaping my understanding of how automation can transform
 business processes by reducing manual effort and increasing accuracy.
 
+![auto](https://github.com/Farhan-Fadillah/picture_list/blob/5eeb44addb2c57064bd1ac4f7e7952c8f40d90d0/automation.jpg)
+
 The collaborative nature of these internships helped me develop
 strong communication and teamwork skills, essential for coordinating
 complex projects and aligning technical solutions with business needs.
 These formative experiences not only equipped Farhan with a robust
 technical toolkit but also instilled a proactive mindset toward problemsolving and continuous learning. 
+
+![business](https://github.com/Farhan-Fadillah/picture_list/blob/5eeb44addb2c57064bd1ac4f7e7952c8f40d90d0/business%20meeting.jpg)
 
 The skills and insights gained during my internships seamlessly transitioned into my professional roles, 
 enabling me to take on more complex challenges in automation and data science
@@ -140,6 +148,8 @@ with confidence. My ability to integrate backend development
 expertise with automation technologies has been a key driver of his
 career growth, positioning me as a versatile and innovative professional
 capable of delivering impactful solutions.
+
+![tech](https://github.com/Farhan-Fadillah/picture_list/blob/5eeb44addb2c57064bd1ac4f7e7952c8f40d90d0/tech%20expert.jpeg)
 
 ---
 
