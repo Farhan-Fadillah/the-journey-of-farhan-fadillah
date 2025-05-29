@@ -55,6 +55,8 @@ using Machine Learning, where i developed models achieving up to
 machine learning techniques to real-world business challenges, driving
 actionable insights and strategic decision-making.
 
+![dqlab](https://github.com/Farhan-Fadillah/picture_list/blob/d60c82fa376c84d133f2fc03c9d53d48ed784438/certificate%20dqlab.jpg)
+
 Prior to this, i completed intensive training in Data Science at
 Purwadhika Startup and Coding School in 2019. This program provided
 me with comprehensive, hands-on experience in end-to-end data
@@ -86,6 +88,8 @@ aligning technical solutions with business objectives, enabling me to
 contribute effectively to organizational growth strategies.
 
 ![IBM Course](https://github.com/Farhan-Fadillah/picture_list/blob/9d438e53ba84943a8724f832a6c8ab62c9c54650/data%20science%20ibm%20methodologies.png)
+
+![IBM Certificate](https://github.com/Farhan-Fadillah/picture_list/blob/d60c82fa376c84d133f2fc03c9d53d48ed784438/certificate%20ibm.jpg)
 
 ---
 
