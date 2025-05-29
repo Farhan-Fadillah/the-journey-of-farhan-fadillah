@@ -81,7 +81,7 @@ Development and Corporate Finance have broadened my perspective on
 aligning technical solutions with business objectives, enabling me to
 contribute effectively to organizational growth strategies.
 
-![IBM Course](data science ibm methodologies.png)
+![IBM Course](https://github.com/Farhan-Fadillah/picture_list/blob/9d438e53ba84943a8724f832a6c8ab62c9c54650/data%20science%20ibm%20methodologies.png)
 
 ---
 
