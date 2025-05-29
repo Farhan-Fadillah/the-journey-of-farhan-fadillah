@@ -41,6 +41,8 @@ education demonstrates my dedication to staying at the forefront of
 emerging technologies and methodologies, ensuring my skills remain
 relevant and cutting-edge in a rapidly evolving field.
 
+![ut](https://github.com/Farhan-Fadillah/picture_list/blob/3cb4baf924b22af0849b66213f3c0cddff1d5572/ut.png)
+
 Among my key certifications is the Data Analyst Python Track, which
 equipped me with advanced skills in Python programming, data
 manipulation, and statistical analysis. This certification enabled Farhan
@@ -61,6 +63,8 @@ as well as practical applications of machine learning models. The
 rigorous curriculum emphasized real-world problem solving, equipping
 me with the ability to translate complex data into actionable business
 insights—a skill that has been pivotal throughout my career.
+
+![Purwadhika](https://github.com/Farhan-Fadillah/picture_list/blob/db03e9a2b14a1b6dbf159f247523003d1c6569ed/purwadhika%20school.png)
 
 Throughout my educational pursuits, I have consistently
 demonstrated a passion for learning and innovation, balancing
@@ -146,6 +150,8 @@ customer churn prediction model that achieved an impressive 80%
 accuracy rate. This machine learning model enabled the organization to
 identify at-risk customers proactively, facilitating targeted retention
 strategies that have the potential to reduce churn by 20–25%. 
+
+![curn](https://github.com/Farhan-Fadillah/picture_list/blob/fc866e2a5b7a795f6b712112d36b7a38e54e620a/cust%20churn.png)
 
 This achievement underscores my proficiency in applying advanced data
 science techniques to solve critical business problems, transforming raw
