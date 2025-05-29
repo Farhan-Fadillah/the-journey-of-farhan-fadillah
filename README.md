@@ -80,7 +80,7 @@ robust and scalable solutions. Additionally, my certifications in Business
 Development and Corporate Finance have broadened my perspective on
 aligning technical solutions with business objectives, enabling me to
 contribute effectively to organizational growth strategies.
-
+![IBM Course](https://www.google.com/search?q=ibm+logo+certificate+data+science+methodologies&sca_esv=714f41f8e6680baa&rlz=1C1ONGR_enID1033ID1033&udm=2&biw=1920&bih=945&ei=Hik4aPilF7_E4-EPjpyQ8A0&ved=0ahUKEwj4rK-Lr8iNAxU_4jgGHQ4OBN4Q4dUDCBE&uact=5&oq=ibm+logo+certificate+data+science+methodologies&gs_lp=EgNpbWciL2libSBsb2dvIGNlcnRpZmljYXRlIGRhdGEgc2NpZW5jZSBtZXRob2RvbG9naWVzSMMjUGlY8SFwAHgAkAEBmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAcAsgcAuAcAwgcAyAcA&sclient=img#vhid=avklVaNkXvCzOM&vssid=mosaic)
 ---
 
 # The Beginning of the Journey
