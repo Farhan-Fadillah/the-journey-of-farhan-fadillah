@@ -137,7 +137,7 @@ business processes by reducing manual effort and increasing accuracy.
 The collaborative nature of these internships helped me develop
 strong communication and teamwork skills, essential for coordinating
 complex projects and aligning technical solutions with business needs.
-These formative experiences not only equipped Farhan with a robust
+These formative experiences not only equipped me with a robust
 technical toolkit but also instilled a proactive mindset toward problemsolving and continuous learning. 
 
 ![business](https://github.com/Farhan-Fadillah/picture_list/blob/5eeb44addb2c57064bd1ac4f7e7952c8f40d90d0/business%20meeting.jpg)
@@ -145,7 +145,7 @@ technical toolkit but also instilled a proactive mindset toward problemsolving a
 The skills and insights gained during my internships seamlessly transitioned into my professional roles, 
 enabling me to take on more complex challenges in automation and data science
 with confidence. My ability to integrate backend development
-expertise with automation technologies has been a key driver of his
+expertise with automation technologies has been a key driver of my
 career growth, positioning me as a versatile and innovative professional
 capable of delivering impactful solutions.
 
