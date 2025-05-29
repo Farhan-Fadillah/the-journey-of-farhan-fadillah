@@ -14,6 +14,7 @@ strategic insight, positioning him as a forward-thinking professional who
 thrives at the intersection of automation and data-driven decisionmaking.
 
 ---
+
 Beginning with foundational roles in backend development, i 
 quickly expanded my skill set to embrace advanced data science
 methodologies and RPA technologies, demonstrating an exceptional
@@ -27,7 +28,8 @@ proficiency in data analytics and machine learning, underscores his role
 as a catalyst for digital transformation.
 
 ---
-# The Educatinal Journey
+
+# The Educational Journey
 
 My educational journey reflects a steadfast commitment to
 expanding my expertise in data science and technology, underpinning my
@@ -38,6 +40,18 @@ machine learning, and data-driven decision-making. This continuous
 education demonstrates my dedication to staying at the forefront of
 emerging technologies and methodologies, ensuring my skills remain
 relevant and cutting-edge in a rapidly evolving field.
+
+Among my key certifications is the Data Analyst Python Track, which
+equipped me with advanced skills in Python programming, data
+manipulation, and statistical analysis. This certification enabled Farhan
+to proficiently handle complex datasets, perform exploratory data
+analysis, and build predictive models, forming the backbone of my data
+science capabilities. Complementing this, i earned certifications in
+Customer Segmentation with Python and Customer Churn Prediction
+using Machine Learning, where i developed models achieving up to
+80% accuracy. These achievements underscore my ability to apply
+machine learning techniques to real-world business challenges, driving
+actionable insights and strategic decision-making.
 
 Prior to this, i completed intensive training in Data Science at
 Purwadhika Startup and Coding School in 2019. This program provided
@@ -67,6 +81,8 @@ Development and Corporate Finance have broadened my perspective on
 aligning technical solutions with business objectives, enabling me to
 contribute effectively to organizational growth strategies.
 
+---
+
 # The Beginning of the Journey
 
 My professional career is a testament to my dedication to
@@ -90,11 +106,93 @@ teams. The experience sharpened his problem-solving skills and
 introduced him to the importance of automation in streamlining
 development workflows.
 
+Beyond backend development, My internship experiences also
+introduced him to the world of Robotic Process Automation (RPA).
+Working alongside experienced developers, i engaged in projects that
+involved automating routine operational tasks, gaining practical
+knowledge of RPA tools and methodologies. This early exposure was
+critical in shaping his understanding of how automation can transform
+business processes by reducing manual effort and increasing accuracy.
+
+The collaborative nature of these internships helped me develop
+strong communication and teamwork skills, essential for coordinating
+complex projects and aligning technical solutions with business needs.
+These formative experiences not only equipped Farhan with a robust
+technical toolkit but also instilled a proactive mindset toward problemsolving and continuous learning. 
+
+The skills and insights gained during my internships seamlessly transitioned into my professional roles, 
+enabling me to take on more complex challenges in automation and data science
+with confidence. My ability to integrate backend development
+expertise with automation technologies has been a key driver of his
+career growth, positioning me as a versatile and innovative professional
+capable of delivering impactful solutions.
+
 ---
 
+# Key Achievements
 
+My career is distinguished by a series of impactful
+achievements that not only demonstrate my technical expertise but also
+highlight my ability to deliver measurable business value through
+innovation and automation. Each role i have undertaken reflects a
+commitment to driving efficiency, accuracy, and strategic insight,
+supported by data-driven results that reinforce my personal brand as a
+results-oriented and forward-thinking professional.
 
+One of my notable accomplishments is the development of a
+customer churn prediction model that achieved an impressive 80%
+accuracy rate. This machine learning model enabled the organization to
+identify at-risk customers proactively, facilitating targeted retention
+strategies that have the potential to reduce churn by 20–25%. 
 
+This achievement underscores my proficiency in applying advanced data
+science techniques to solve critical business problems, transforming raw
+data into actionable insights that directly impact revenue and customer
+loyalty. The model’s success is visually represented through an
+infographic-style dashboard that highlights key metrics and technical
+parameters, illustrating the sophistication and effectiveness of his
+approach.
+
+In the realm of automation, My implementation of Robotic Process
+Automation (RPA) solutions using UiPath stands out as a transformative
+contribution. By automating repetitive and time-consuming operational
+tasks, he reduced process times by up to 75%, resulting in annual time
+savings exceeding 500 hours. This significant efficiency gain not only
+accelerated workflows but also enhanced data accuracy and team
+productivity. The impact of these automation initiatives is captured in a
+visual graph that quantifies hours saved and efficiency improvements,
+reinforcing my role as a catalyst for digital transformation within
+my teams.
+
+I also demonstrated my strategic acumen through comprehensive
+business analysis projects, employing frameworks such as PESTEL and
+risk analysis to identify opportunities for operational enhancements. my
+recommendations projected a 30% improvement in operational
+efficiency, showcasing his ability to blend technical skills with business
+strategy to drive meaningful outcomes. Additionally, my creation of
+interactive Power BI dashboards provided stakeholders with intuitive
+access to critical data, supporting informed decision-making and
+fostering a culture of data-driven management.
+
+Another key achievement includes automating data workflows and
+reporting processes with Alteryx Designer, which reduced report
+preparation time by over 80% while improving data accuracy. This
+automation not only streamlined routine tasks but also freed up valuable
+resources for higher-value analytical work, further amplifying the impact
+of my contributions.
+
+---
+###
+As a professional, I stands out for my holistic approach—combining
+deep technical knowledge, analytical rigor, and a clear understanding of
+business objectives to create solutions that are both innovative and
+practical. My personal brand is built on a foundation of measurable
+impact, strategic insight, and a passion for driving digital transformation.
+I invites you to connect and explore opportunities to collaborate,
+innovate, and achieve excellence together. My journey is not just about
+technology; it’s about creating meaningful change and delivering value
+that resonates across teams and organizations.
+###
 
 Check Out my CV at
 [CV](https://github.com/Farhan-Fadillah/portfolio-farhan-fadillah/blob/main/CV-PDF/CV%20ATS%20Farhan%20Fadillah%20New.pdf)
