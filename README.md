@@ -183,7 +183,7 @@ of my contributions.
 
 ---
 
-# As a professional, I stands out for my holistic approach—combining deep technical knowledge, analytical rigor, and a clear understanding of business objectives to create solutions that are both innovative and practical. My personal brand is built on a foundation of measurable impact, strategic insight, and a passion for driving digital transformation. I invites you to connect and explore opportunities to collaborate, innovate, and achieve excellence together. My journey is not just about technology; it’s about creating meaningful change and delivering value that resonates across teams and organizations. 
+As a professional, I stands out for my holistic approach—combining deep technical knowledge, analytical rigor, and a clear understanding of business objectives to create solutions that are both innovative and practical. My personal brand is built on a foundation of measurable impact, strategic insight, and a passion for driving digital transformation. I invites you to connect and explore opportunities to collaborate, innovate, and achieve excellence together. My journey is not just about technology; it’s about creating meaningful change and delivering value that resonates across teams and organizations. 
 
 
 Check Out my CV at
