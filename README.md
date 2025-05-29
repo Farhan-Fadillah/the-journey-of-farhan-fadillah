@@ -13,7 +13,7 @@ trajectory reflects a dynamic blend of hands-on technical expertise and
 strategic insight, positioning me as a forward-thinking professional who
 thrives at the intersection of automation and data-driven decisionmaking.
 
-![rpa](https://github.com/Farhan-Fadillah/picture_list/blob/cc4c2b90228546d535cf68258bd555af63db3438/rpa.png) ![ds](https://github.com/Farhan-Fadillah/picture_list/blob/cc4c2b90228546d535cf68258bd555af63db3438/data%20science.png) ![backend](https://github.com/Farhan-Fadillah/picture_list/blob/a78954dd4af9fa85d66866fa2e1f04c7f341a114/backend.jpg)
+![rpa](https://github.com/Farhan-Fadillah/picture_list/blob/832a14e68b7454d016c93918ae51d3cd8d7b9de3/robotic.png)
 
 ---
 
@@ -28,6 +28,8 @@ operational performance. my expertise in designing and
 implementing automation frameworks using UiPath, coupled with my
 proficiency in data analytics and machine learning, underscores my role
 as a catalyst for digital transformation.
+
+![rpa data](https://github.com/Farhan-Fadillah/picture_list/blob/1e5b0313b326b7fdd0d55c93e9b3545051b56f65/rpa%20and%20data.jpg)
 
 ---
 
