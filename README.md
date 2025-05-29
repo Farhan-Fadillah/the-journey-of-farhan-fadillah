@@ -176,7 +176,7 @@ science techniques to solve critical business problems, transforming raw
 data into actionable insights that directly impact revenue and customer
 loyalty. The model’s success is visually represented through an
 infographic-style dashboard that highlights key metrics and technical
-parameters, illustrating the sophistication and effectiveness of his
+parameters, illustrating the sophistication and effectiveness of my
 approach.
 
 In the realm of automation, My implementation of Robotic Process
