@@ -182,8 +182,8 @@ resources for higher-value analytical work, further amplifying the impact
 of my contributions.
 
 ---
-###
-As a professional, I stands out for my holistic approach—combining
+
+#As a professional, I stands out for my holistic approach—combining
 deep technical knowledge, analytical rigor, and a clear understanding of
 business objectives to create solutions that are both innovative and
 practical. My personal brand is built on a foundation of measurable
@@ -192,7 +192,7 @@ I invites you to connect and explore opportunities to collaborate,
 innovate, and achieve excellence together. My journey is not just about
 technology; it’s about creating meaningful change and delivering value
 that resonates across teams and organizations.
-###
+
 
 Check Out my CV at
 [CV](https://github.com/Farhan-Fadillah/portfolio-farhan-fadillah/blob/main/CV-PDF/CV%20ATS%20Farhan%20Fadillah%20New.pdf)
