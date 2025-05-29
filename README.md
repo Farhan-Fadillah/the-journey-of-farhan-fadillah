@@ -10,7 +10,7 @@ path marked by a deep commitment to leveraging technology to solve
 complex business challenges, streamline operations, and drive
 measurable improvements in efficiency and accuracy. my career
 trajectory reflects a dynamic blend of hands-on technical expertise and
-strategic insight, positioning him as a forward-thinking professional who
+strategic insight, positioning me as a forward-thinking professional who
 thrives at the intersection of automation and data-driven decisionmaking.
 
 ---
