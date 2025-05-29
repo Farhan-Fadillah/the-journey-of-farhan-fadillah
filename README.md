@@ -213,6 +213,6 @@ As a professional, I stands out for my holistic approach—combining deep techni
 
 
 Check Out my CV at
-[CV](https://github.com/Farhan-Fadillah/portfolio-farhan-fadillah/blob/main/CV-PDF/CV%20ATS%20Farhan%20Fadillah%20New.pdf)
+[CV]((https://github.com/Farhan-Fadillah/the-journey-of-farhan-fadillah/blob/1203fc09ae342d37ffc1126b299df8e7da8a7f0c/CV-PDF/CV%20ATS%20Farhan%20Fadillah%20New%20File%20Format.pdf))
 
 Thank You
