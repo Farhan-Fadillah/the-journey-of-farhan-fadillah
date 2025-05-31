@@ -40,10 +40,10 @@ expanding my expertise in data science and technology, underpinning my
 professional achievements with a strong academic foundation. Currently,
 I'm pursuing ongoing studies in Data Science at Indonesia Open
 University, where i'm deepening my knowledge of advanced analytics,
-machine learning, and data-driven decision-making. This continuous
+machine learning, and data driven decision making. This continuous
 education demonstrates my dedication to staying at the forefront of
 emerging technologies and methodologies, ensuring my skills remain
-relevant and cutting-edge in a rapidly evolving field.
+relevant and cutting edge in a rapidly evolving field.
 
 ![ut](https://github.com/Farhan-Fadillah/picture_list/blob/3cb4baf924b22af0849b66213f3c0cddff1d5572/ut.png)
 
@@ -77,13 +77,13 @@ demonstrated a passion for learning and innovation, balancing
 theoretical knowledge with practical application. This blend of academic
 rigor and hands-on experience has laid a solid foundation for my
 professional success, enabling me to approach challenges with analytical
-precision and creative problem-solving. The modern academic
+precision and creative problem solving. The modern academic
 environment, characterized by collaborative learning and technological
 integration, has been instrumental in shaping my capabilities and
 preparing me for the dynamic demands of the tech industry
 
 I also completed the IBM Data Science Methodology certification,
-which deepened my understanding of the end-to-end data science
+which deepened my understanding of the end to end data science
 lifecycle, from problem formulation to deployment. This comprehensive
 training enhanced his ability to structure projects methodically, ensuring
 robust and scalable solutions. Additionally, my certifications in Business
@@ -100,7 +100,7 @@ contribute effectively to organizational growth strategies.
 # The Beginning of the Journey
 
 My professional career is a testament to my dedication to
-mastering cutting-edge technologies and delivering impactful solutions
+mastering cutting edge technologies and delivering impactful solutions
 across multiple roles in the tech industry. My journey began with
 foundational experience in backend development, where i honed my
 skills in programming and system design, and progressively evolved into
@@ -215,8 +215,9 @@ of my contributions.
 
 ---
 
-As a professional, I stands out for my holistic approach—combining deep technical knowledge, analytical rigor, and a clear understanding of business objectives to create solutions that are both innovative and practical. My personal brand is built on a foundation of measurable impact, strategic insight, and a passion for driving digital transformation. I invites you to connect and explore opportunities to collaborate, innovate, and achieve excellence together. My journey is not just about technology; it’s about creating meaningful change and delivering value that resonates across teams and organizations. 
+As a professional, I stands out for my holistic approach combining deep technical knowledge, analytical rigor, and a clear understanding of business objectives to create solutions that are both innovative and practical. My personal brand is built on a foundation of measurable impact, strategic insight, and a passion for driving digital transformation. I invites you to connect and explore opportunities to collaborate, innovate, and achieve excellence together. My journey is not just about technology it’s about creating meaningful change and delivering value that resonates across teams and organizations. 
 
+![collab](https://github.com/Farhan-Fadillah/picture_list/blob/6a0c58eecc1c2a37c306fc8ee03a03cda366e4f8/collaboration.jpg)
 
 Check Out my CV at
 [CV](https://github.com/Farhan-Fadillah/the-journey-of-farhan-fadillah/blob/1203fc09ae342d37ffc1126b299df8e7da8a7f0c/CV-PDF/CV%20ATS%20Farhan%20Fadillah%20New%20File%20Format.pdf)
