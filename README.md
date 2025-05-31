@@ -13,7 +13,7 @@ trajectory reflects a dynamic blend of hands-on technical expertise and
 strategic insight, positioning me as a forward-thinking professional who
 thrives at the intersection of automation and data-driven decisionmaking.
 
-![rpa](https://github.com/Farhan-Fadillah/picture_list/blob/832a14e68b7454d016c93918ae51d3cd8d7b9de3/robotic.png)
+[![rpa](https://github.com/Farhan-Fadillah/picture_list/blob/832a14e68b7454d016c93918ae51d3cd8d7b9de3/robotic.png)]
 
 ---
 
