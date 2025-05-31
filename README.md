@@ -13,7 +13,7 @@ trajectory reflects a dynamic blend of hands-on technical expertise and
 strategic insight, positioning me as a forward-thinking professional who
 thrives at the intersection of automation and data-driven decisionmaking.
 
-[![rpa](https://github.com/Farhan-Fadillah/picture_list/blob/832a14e68b7454d016c93918ae51d3cd8d7b9de3/robotic.png)]
+![rpa](https://github.com/Farhan-Fadillah/picture_list/blob/832a14e68b7454d016c93918ae51d3cd8d7b9de3/robotic.png)
 
 ---
 
@@ -190,6 +190,8 @@ visual graph that quantifies hours saved and efficiency improvements,
 reinforcing my role as a catalyst for digital transformation within
 my teams.
 
+![rpa](https://github.com/Farhan-Fadillah/picture_list/blob/4de942244111abe01526d1f79efea7ff31170cdb/rpa%20ach.jpg)
+
 I also demonstrated my strategic acumen through comprehensive
 business analysis projects, employing frameworks such as PESTEL and
 risk analysis to identify opportunities for operational enhancements. my
@@ -200,12 +202,16 @@ interactive Power BI dashboards provided stakeholders with intuitive
 access to critical data, supporting informed decision-making and
 fostering a culture of data-driven management.
 
+![pestel](https://github.com/Farhan-Fadillah/picture_list/blob/8028525bb816143d72a9a04eb9cd0beb90e79e10/pestel.png)
+
 Another key achievement includes automating data workflows and
 reporting processes with Alteryx Designer, which reduced report
 preparation time by over 80% while improving data accuracy. This
 automation not only streamlined routine tasks but also freed up valuable
 resources for higher-value analytical work, further amplifying the impact
 of my contributions.
+
+![alteryx](https://github.com/Farhan-Fadillah/picture_list/blob/e55e0fbf525d6545640e5f467626cb38759bfffc/alteryx.png)
 
 ---
 
