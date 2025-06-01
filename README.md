@@ -225,4 +225,7 @@ Check Out my CV at
 Check Out My Project about Energy Consumption Building Predictor App with Machine Learning at
 [Energy Consumption Building Predictor](https://github.com/Farhan-Fadillah/energy_consumption_buildings.git)
 
+Check Out My Project about Household Carbon Predictor App with Machine Learning at
+[Household Carbon Predictor App](https://github.com/Farhan-Fadillah/household_carbon_predictor.git)
+
 Thank You
