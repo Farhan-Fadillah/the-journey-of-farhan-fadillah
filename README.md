@@ -112,13 +112,13 @@ responsibility.
 
 Starting as a Backend Developer at Sribulancer from January to May
 2020, i was deeply involved in building robust backend systems
-using technologies such as Node.js, GraphQL, and SQL. His
+using technologies such as Node.js, GraphQL, and SQL. My
 responsibilities included developing and maintaining APIs, creating
 testing kits for API validation, and ensuring seamless integration
 between frontend and backend components. This role laid the
 groundwork for his technical expertise, emphasizing clean code
 practices, system scalability, and collaborative development within agile
-teams. The experience sharpened his problem-solving skills and
+teams. The experience sharpened my problem-solving skills and
 introduced me to the importance of automation in streamlining
 development workflows.
 
