@@ -228,7 +228,7 @@ Check Out My Project about Energy Consumption Building Predictor App with Machin
 Check Out My Project about Household Carbon Predictor App with Machine Learning at
 [Household Carbon Predictor App](https://github.com/Farhan-Fadillah/household_carbon_predictor.git)
 
-Check Out My Project about Jakarta's Air Polution Predictor App with Machine Learning at
-[Jakarta's Air Polution App](https://github.com/Farhan-Fadillah/air_polution_predictor_jakarta.git)
+Check Out My Project about Jakarta's Air Pollution Predictor App with Machine Learning at
+[Jakarta's Air Polution App](https://github.com/Farhan-Fadillah/air_pollution_predictor_jakarta.git)
 
 Thank You
