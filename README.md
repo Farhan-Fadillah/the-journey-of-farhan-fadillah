@@ -122,6 +122,8 @@ teams. The experience sharpened my problem-solving skills and
 introduced me to the importance of automation in streamlining
 development workflows.
 
+![sribulancer](https://github.com/user-attachments/assets/f897e4d3-daa6-4cea-8293-4c7067225b64)
+
 ![node](https://github.com/Farhan-Fadillah/picture_list/blob/5eeb44addb2c57064bd1ac4f7e7952c8f40d90d0/node%20graph.jpg)
 
 Beyond backend development, My internship experiences also
