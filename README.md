@@ -241,7 +241,7 @@ As a professional, I stands out for my holistic approach combining deep technica
 ![collab](https://github.com/Farhan-Fadillah/picture_list/blob/6a0c58eecc1c2a37c306fc8ee03a03cda366e4f8/collaboration.jpg)
 
 Check Out my CV at
-[CV](https://github.com/Farhan-Fadillah/the-journey-of-farhan-fadillah/blob/18996589f90cd01779a0f13c742af9a6f95f2beb/CV-PDF/Template%20CV%20ATS%20New%20Farhan%20Fadillah.pdf)
+[CV](https://github.com/Farhan-Fadillah/the-journey-of-farhan-fadillah/blob/fce2a497f38e97462dbb0a68870df8d65c172609/CV-PDF/New%20Template%20CV%20ATS%20Farhan%20Fadillah.pdf)
 
 Check Out My Project about Energy Consumption Building Predictor App with Machine Learning at
 [Energy Consumption Building Predictor](https://github.com/Farhan-Fadillah/energy_consumption_buildings.git)
