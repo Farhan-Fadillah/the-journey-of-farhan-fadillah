@@ -45,7 +45,7 @@ education demonstrates my dedication to staying at the forefront of
 emerging technologies and methodologies, ensuring my skills remain
 relevant and cutting edge in a rapidly evolving field.
 
-![ut](https://github.com/Farhan-Fadillah/picture_list/blob/3cb4baf924b22af0849b66213f3c0cddff1d5572/ut.png)
+![UT](https://github.com/user-attachments/assets/fc621684-b51f-48e6-b760-aa5a4ecf3f4a)
 
 Among my key certifications is the Data Analyst Python Track, which
 equipped me with advanced skills in Python programming, data
