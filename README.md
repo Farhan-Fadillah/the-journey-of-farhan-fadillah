@@ -107,6 +107,9 @@ I have also explored cloud architecture with AWS, recognizing its importance in 
 
 ![AWS](https://github.com/user-attachments/assets/3dfbad9a-e75e-4659-8065-a6a321cd5ca9)
 
+Given the fast-paced development of AI—especially Generative AI—I recognized the need to deepen my understanding in this area. I therefore studied the fundamentals of Generative AI with support from AWS cloud services, through a training program by Dicoding that helped enhance my foundational knowledge in AI.
+
+![GEN AI](https://github.com/user-attachments/assets/3d4d2624-4af7-4b4b-a0de-133c34872e41)
 
 
 ---
