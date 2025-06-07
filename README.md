@@ -29,7 +29,7 @@ implementing automation frameworks using UiPath, coupled with my
 proficiency in data analytics and machine learning, underscores my role
 as a catalyst for digital transformation.
 
-![rpa data](https://github.com/Farhan-Fadillah/picture_list/blob/1e5b0313b326b7fdd0d55c93e9b3545051b56f65/rpa%20and%20data.jpg)
+![rpa and data](https://github.com/user-attachments/assets/353789c3-3585-4513-abd3-ce69a3763734)
 
 ---
 
