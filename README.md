@@ -126,13 +126,15 @@ development workflows.
 
 ![node](https://github.com/Farhan-Fadillah/picture_list/blob/5eeb44addb2c57064bd1ac4f7e7952c8f40d90d0/node%20graph.jpg)
 
-Beyond backend development, My internship experiences also
+Subsequently, I transitioned into the retail sector by joining PT. Mega Perintis Tbk, where I honed my expertise in business analysis, data analysis, data science, and business process management that experiences also
 introduced me to the world of Robotic Process Automation (RPA).
 Working alongside experienced developers, i engaged in projects that
 involved automating routine operational tasks, gaining practical
 knowledge of RPA tools and methodologies. This early exposure was
 critical in shaping my understanding of how automation can transform
 business processes by reducing manual effort and increasing accuracy.
+
+![MP](https://github.com/user-attachments/assets/7f7f142b-9554-4154-8627-2bce5f315029)
 
 ![auto](https://github.com/Farhan-Fadillah/picture_list/blob/5eeb44addb2c57064bd1ac4f7e7952c8f40d90d0/automation.jpg)
 
