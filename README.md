@@ -243,16 +243,13 @@ As a professional, I stands out for my holistic approach combining deep technica
 Check Out my CV at
 [CV](https://github.com/Farhan-Fadillah/the-journey-of-farhan-fadillah/blob/fce2a497f38e97462dbb0a68870df8d65c172609/CV-PDF/New%20Template%20CV%20ATS%20Farhan%20Fadillah.pdf)
 
-Check Out My Project about Energy Consumption Building Predictor App with Machine Learning at
-[Energy Consumption Building Predictor](https://github.com/Farhan-Fadillah/energy_consumption_buildings.git)
+Check Out My Projects i have done :
+1. [Energy Consumption Building Predictor](https://github.com/Farhan-Fadillah/energy_consumption_buildings.git)
 
-Check Out My Project about Household Carbon Predictor App with Machine Learning at
-[Household Carbon Predictor App](https://github.com/Farhan-Fadillah/household_carbon_predictor.git)
+2. [Household Carbon Predictor App](https://github.com/Farhan-Fadillah/household_carbon_predictor.git)
 
-Check Out My Project about Jakarta Air Pollution Predictor App with Machine Learning at
-[Jakarta Air Polution App](https://github.com/Farhan-Fadillah/air_pollution_predictor_jakarta.git)
+3. [Jakarta Air Polution App](https://github.com/Farhan-Fadillah/air_pollution_predictor_jakarta.git)
 
-Check Out My Project about Customer Digital Media Access Dashboard at
-[Customer Digital Media Access Dashboard](https://github.com/Farhan-Fadillah/Customer_digital_media_access.git)
+4. [Customer Digital Media Access Dashboard](https://github.com/Farhan-Fadillah/Customer_digital_media_access.git)
 
 Thank You
