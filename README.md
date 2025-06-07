@@ -95,6 +95,20 @@ contribute effectively to organizational growth strategies.
 
 ![IBM Certificate](https://github.com/Farhan-Fadillah/picture_list/blob/d60c82fa376c84d133f2fc03c9d53d48ed784438/certificate%20ibm.jpg)
 
+In an era where technology is advancing at a rapid pace, it is essential for me to continuously upgrade my skills in the field. To that end, I undertook a foundational AI course through Dicoding to deepen my understanding of how artificial intelligence operates.
+
+![AI Dicoding](https://github.com/user-attachments/assets/86c0d795-1993-4adf-aaa9-bf03e7c64c29)
+
+Furthermore, I pursued a course in prompt engineering through Dicoding to support my exploration of the AI domain particularly in understanding how AI systems can be developed and directed through the use of prompts. This has significantly enhanced my technical knowledge in AI development.
+
+![prompt](https://github.com/user-attachments/assets/e8332622-e11a-4843-af34-aa643fd27fb9)
+
+I have also explored cloud architecture with AWS, recognizing its importance in designing scalable and efficient infrastructures for AI and other development initiatives. To strengthen my understanding of cloud computing, I enrolled in a cloud architecture course on AWS through Dicoding.
+
+![AWS](https://github.com/user-attachments/assets/3dfbad9a-e75e-4659-8065-a6a321cd5ca9)
+
+
+
 ---
 
 # The Beginning of the Journey
