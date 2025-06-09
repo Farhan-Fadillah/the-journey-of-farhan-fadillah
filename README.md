@@ -2,6 +2,19 @@
 
 ---   
 
+First of all, if you're curious about my project you can check Out My Projects i have done :
+1. Energy Consumption Building Predictor [Click Here](https://github.com/Farhan-Fadillah/energy_consumption_buildings.git)
+
+2. Household Carbon Predictor App [Click Here](https://github.com/Farhan-Fadillah/household_carbon_predictor.git)
+
+3. Jakarta Air Polution App [Click Here](https://github.com/Farhan-Fadillah/air_pollution_predictor_jakarta.git)
+
+4. Customer Digital Media Access Dashboard [Click Here](https://github.com/Farhan-Fadillah/Customer_digital_media_access.git)
+
+5. Sales Prediction Project for Supply Chain Management (SCM) Optimization [Click Here](https://github.com/Farhan-Fadillah/scm_sales_prediction.git)
+
+---
+
 My professional journey is a compelling narrative of
 continuous growth, technical mastery, and impactful contributions across
 the fields of Robotic Process Automation (RPA), data science, and
@@ -243,15 +256,5 @@ As a professional, I stands out for my holistic approach combining deep technica
 Check Out my CV 
 [Click Here](https://github.com/Farhan-Fadillah/the-journey-of-farhan-fadillah/blob/fce2a497f38e97462dbb0a68870df8d65c172609/CV-PDF/New%20Template%20CV%20ATS%20Farhan%20Fadillah.pdf)
 
-Check Out My Projects i have done :
-1. Energy Consumption Building Predictor [Click Here](https://github.com/Farhan-Fadillah/energy_consumption_buildings.git)
-
-2. Household Carbon Predictor App [Click Here](https://github.com/Farhan-Fadillah/household_carbon_predictor.git)
-
-3. Jakarta Air Polution App [Click Here](https://github.com/Farhan-Fadillah/air_pollution_predictor_jakarta.git)
-
-4. Customer Digital Media Access Dashboard [Click Here](https://github.com/Farhan-Fadillah/Customer_digital_media_access.git)
-
-5. Sales Prediction Project for Supply Chain Management (SCM) Optimization [Click Here](https://github.com/Farhan-Fadillah/scm_sales_prediction.git)
 
 Thank You
