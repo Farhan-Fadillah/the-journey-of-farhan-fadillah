@@ -2,7 +2,7 @@
 
 ---   
 
-First of all, if you're curious about my projects you can check Out My Projects i have done :
+First of all, if you're curious about my projects you can check out my projects i have done :
 1. Energy Consumption Building Predictor [Click Here](https://github.com/Farhan-Fadillah/energy_consumption_buildings.git)
 
 2. Household Carbon Predictor App [Click Here](https://github.com/Farhan-Fadillah/household_carbon_predictor.git)
@@ -14,6 +14,7 @@ First of all, if you're curious about my projects you can check Out My Projects 
 5. Sales Prediction Project for Supply Chain Management (SCM) Optimization [Click Here](https://github.com/Farhan-Fadillah/scm_sales_prediction.git)
 
 ---
+# Already checked out the project lists? Let's get into the story!
 
 My professional journey is a compelling narrative of
 continuous growth, technical mastery, and impactful contributions across
