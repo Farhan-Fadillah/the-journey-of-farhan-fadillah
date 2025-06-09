@@ -252,4 +252,6 @@ Check Out My Projects i have done :
 
 4. Customer Digital Media Access Dashboard [Click Here](https://github.com/Farhan-Fadillah/Customer_digital_media_access.git)
 
+5. Sales Prediction Project for Supply Chain Management (SCM) Optimization [Click Here](https://github.com/Farhan-Fadillah/scm_sales_prediction.git)
+
 Thank You
