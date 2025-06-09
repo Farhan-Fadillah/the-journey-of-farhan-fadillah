@@ -2,7 +2,7 @@
 
 ---   
 
-First of all, if you're curious about my project you can check Out My Projects i have done :
+First of all, if you're curious about my projects you can check Out My Projects i have done :
 1. Energy Consumption Building Predictor [Click Here](https://github.com/Farhan-Fadillah/energy_consumption_buildings.git)
 
 2. Household Carbon Predictor App [Click Here](https://github.com/Farhan-Fadillah/household_carbon_predictor.git)
