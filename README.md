@@ -255,7 +255,7 @@ As a professional, I stands out for my holistic approach combining deep technica
 ![collab](https://github.com/Farhan-Fadillah/picture_list/blob/6a0c58eecc1c2a37c306fc8ee03a03cda366e4f8/collaboration.jpg)
 
 Check Out my CV 
-[[Click Here](https://github.com/Farhan-Fadillah/the-journey-of-farhan-fadillah/tree/30b38387a7246f7f819c8c8367be5a35f8e6dd8a/CV-PDF)
+[Click Here](https://github.com/Farhan-Fadillah/the-journey-of-farhan-fadillah/tree/30b38387a7246f7f819c8c8367be5a35f8e6dd8a/CV-PDF)
 
 
 Thank You
