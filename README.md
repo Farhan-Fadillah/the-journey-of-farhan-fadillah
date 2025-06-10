@@ -31,6 +31,8 @@ thrives at the intersection of automation and data-driven decisionmaking.
 
 ---
 
+# My First Step
+
 Beginning with foundational roles in backend development, i 
 quickly expanded my skill set to embrace advanced data science
 methodologies and RPA technologies, demonstrating an exceptional
@@ -61,6 +63,8 @@ relevant and cutting edge in a rapidly evolving field.
 
 ![UT](https://github.com/user-attachments/assets/fc621684-b51f-48e6-b760-aa5a4ecf3f4a)
 
+# The First Key, The First Start of All
+
 Among my key certifications is the Data Analyst Python Track, which
 equipped me with advanced skills in Python programming, data
 manipulation, and statistical analysis. This certification enabled Farhan
@@ -74,6 +78,8 @@ machine learning techniques to real-world business challenges, driving
 actionable insights and strategic decision-making.
 
 ![dqlab](https://github.com/Farhan-Fadillah/picture_list/blob/d60c82fa376c84d133f2fc03c9d53d48ed784438/certificate%20dqlab.jpg)
+
+# Bootcamp Adventure
 
 Prior to this, i completed intensive training in Data Science at
 Purwadhika Startup and Coding School in 2019. This program provided
@@ -96,6 +102,8 @@ environment, characterized by collaborative learning and technological
 integration, has been instrumental in shaping my capabilities and
 preparing me for the dynamic demands of the tech industry
 
+# The Data Science IBM Badge
+
 I also completed the IBM Data Science Methodology certification,
 which deepened my understanding of the end to end data science
 lifecycle, from problem formulation to deployment. This comprehensive
@@ -108,6 +116,8 @@ contribute effectively to organizational growth strategies.
 ![IBM Course](https://github.com/Farhan-Fadillah/picture_list/blob/9d438e53ba84943a8724f832a6c8ab62c9c54650/data%20science%20ibm%20methodologies.png)
 
 ![IBM Certificate](https://github.com/Farhan-Fadillah/picture_list/blob/d60c82fa376c84d133f2fc03c9d53d48ed784438/certificate%20ibm.jpg)
+
+# AI Adventure Just Started!
 
 In an era where technology is advancing at a rapid pace, it is essential for me to continuously upgrade my skills in the field. To that end, I undertook a foundational AI course through Dicoding to deepen my understanding of how artificial intelligence operates.
 
@@ -141,6 +151,8 @@ responsibility.
 
 ![system](https://github.com/Farhan-Fadillah/picture_list/blob/5eeb44addb2c57064bd1ac4f7e7952c8f40d90d0/system%20design.png)
 
+# Chapter 1 : Backend Role at Sribulancer
+
 Starting as a Backend Developer at Sribulancer from January to May
 2020, i was deeply involved in building robust backend systems
 using technologies such as Node.js, GraphQL, and SQL. My
@@ -157,6 +169,8 @@ development workflows.
 
 ![node](https://github.com/Farhan-Fadillah/picture_list/blob/5eeb44addb2c57064bd1ac4f7e7952c8f40d90d0/node%20graph.jpg)
 
+# Chapter 2 : A Big Adventures in Retail Company
+
 Subsequently, I transitioned into the retail sector by joining PT. Mega Perintis Tbk, where I honed my expertise in business analysis, data analysis, data science, and business process management that experiences also
 introduced me to the world of Robotic Process Automation (RPA).
 Working alongside experienced developers, i engaged in projects that
@@ -169,7 +183,9 @@ business processes by reducing manual effort and increasing accuracy.
 
 ![auto](https://github.com/Farhan-Fadillah/picture_list/blob/5eeb44addb2c57064bd1ac4f7e7952c8f40d90d0/automation.jpg)
 
-The collaborative nature of these internships helped me develop
+# What do i get?
+
+The collaborative nature of these experiences helped me develop
 strong communication and teamwork skills, essential for coordinating
 complex projects and aligning technical solutions with business needs.
 These formative experiences not only equipped me with a robust
@@ -177,7 +193,9 @@ technical toolkit but also instilled a proactive mindset toward problemsolving a
 
 ![business](https://github.com/Farhan-Fadillah/picture_list/blob/5eeb44addb2c57064bd1ac4f7e7952c8f40d90d0/business%20meeting.jpg)
 
-The skills and insights gained during my internships seamlessly transitioned into my professional roles, 
+# The Growth of My Abilities
+
+The skills and insights gained during my adventures seamlessly transitioned into my professional roles, 
 enabling me to take on more complex challenges in automation and data science
 with confidence. My ability to integrate backend development
 expertise with automation technologies has been a key driver of my
@@ -198,6 +216,8 @@ commitment to driving efficiency, accuracy, and strategic insight,
 supported by data-driven results that reinforce my personal brand as a
 results-oriented and forward-thinking professional.
 
+# First Project
+
 One of my notable accomplishments is the development of a
 customer churn prediction model that achieved an impressive 80%
 accuracy rate. This machine learning model enabled the organization to
@@ -214,6 +234,8 @@ infographic-style dashboard that highlights key metrics and technical
 parameters, illustrating the sophistication and effectiveness of my
 approach.
 
+# RPA : A New Way of Automation
+
 In the realm of automation, My implementation of Robotic Process
 Automation (RPA) solutions using UiPath stands out as a transformative
 contribution. By automating repetitive and time-consuming operational
@@ -227,6 +249,8 @@ my teams.
 
 ![rpa](https://github.com/Farhan-Fadillah/picture_list/blob/4de942244111abe01526d1f79efea7ff31170cdb/rpa%20ach.jpg)
 
+# Applying Growth Business Mindset : Make your mind as a Businessman, Not Just a Developer
+
 I also demonstrated my strategic acumen through comprehensive
 business analysis projects, employing frameworks such as PESTEL and
 risk analysis to identify opportunities for operational enhancements. my
@@ -239,6 +263,8 @@ fostering a culture of data-driven management.
 
 ![pestel](https://github.com/Farhan-Fadillah/picture_list/blob/8028525bb816143d72a9a04eb9cd0beb90e79e10/pestel.png)
 
+# Alteryx Designer : A Canvas of Magic
+
 Another key achievement includes automating data workflows and
 reporting processes with Alteryx Designer, which reduced report
 preparation time by over 80% while improving data accuracy. This
@@ -249,6 +275,8 @@ of my contributions.
 ![alteryx](https://github.com/Farhan-Fadillah/picture_list/blob/e55e0fbf525d6545640e5f467626cb38759bfffc/alteryx.png)
 
 ---
+
+# A Message for all the Marvel heroes
 
 As a professional, I stands out for my holistic approach combining deep technical knowledge, analytical rigor, and a clear understanding of business objectives to create solutions that are both innovative and practical. My personal brand is built on a foundation of measurable impact, strategic insight, and a passion for driving digital transformation. I invites you to connect and explore opportunities to collaborate, innovate, and achieve excellence together. My journey is not just about technology it’s about creating meaningful change and delivering value that resonates across teams and organizations. 
 
