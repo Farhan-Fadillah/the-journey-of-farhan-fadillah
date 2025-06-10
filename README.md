@@ -216,7 +216,7 @@ commitment to driving efficiency, accuracy, and strategic insight,
 supported by data-driven results that reinforce my personal brand as a
 results-oriented and forward-thinking professional.
 
-# First Project
+# The First Try
 
 One of my notable accomplishments is the development of a
 customer churn prediction model that achieved an impressive 80%
