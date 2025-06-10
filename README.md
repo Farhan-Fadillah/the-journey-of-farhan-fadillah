@@ -169,7 +169,7 @@ development workflows.
 
 ![node](https://github.com/Farhan-Fadillah/picture_list/blob/5eeb44addb2c57064bd1ac4f7e7952c8f40d90d0/node%20graph.jpg)
 
-# Chapter 2 : A Big Adventures in Retail Company
+# Chapter 2 : A Big Adventure in Retail Company
 
 Subsequently, I transitioned into the retail sector by joining PT. Mega Perintis Tbk, where I honed my expertise in business analysis, data analysis, data science, and business process management that experiences also
 introduced me to the world of Robotic Process Automation (RPA).
