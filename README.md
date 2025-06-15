@@ -272,6 +272,8 @@ automation not only streamlined routine tasks but also freed up valuable
 resources for higher-value analytical work, further amplifying the impact
 of my contributions.
 
+![alteryx_project](https://github.com/user-attachments/assets/fd836e52-e127-4e2a-88d0-f5926190395e)
+
 ![alteryx](https://github.com/Farhan-Fadillah/picture_list/blob/e55e0fbf525d6545640e5f467626cb38759bfffc/alteryx.png)
 
 ---
