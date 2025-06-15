@@ -270,7 +270,7 @@ fostering a culture of data-driven management.
 # Alteryx Designer : A Canvas of Magic
 
 Another key achievement includes automating data workflows and
-reporting processes with Alteryx Designer, which reduced report
+reporting processes with Alteryx Designer a no code ETL Tool, which reduced report
 preparation time by over 80% while improving data accuracy. This
 automation not only streamlined routine tasks but also freed up valuable
 resources for higher-value analytical work, further amplifying the impact
