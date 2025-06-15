@@ -1,5 +1,9 @@
 # Farhan Fadillah: A Journey of Innovation and Excellence in RPA and Data Science
 
+---
+
+![google](https://github.com/user-attachments/assets/fcbd614a-f487-4594-a35c-78181dc09ec5)
+
 ---   
 
 First of all, if you're curious about my projects you can check out my projects i have done :
