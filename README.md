@@ -251,6 +251,8 @@ visual graph that quantifies hours saved and efficiency improvements,
 reinforcing my role as a catalyst for digital transformation within
 my teams.
 
+![uipath](https://github.com/user-attachments/assets/61ab3ec3-1692-4872-be28-a599198ef5de)
+
 ![rpa](https://github.com/Farhan-Fadillah/picture_list/blob/4de942244111abe01526d1f79efea7ff31170cdb/rpa%20ach.jpg)
 
 # Applying Growth Business Mindset : Make your mind as a Businessman, Not Just a Developer
