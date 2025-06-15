@@ -1,9 +1,5 @@
 # Farhan Fadillah: A Journey of Innovation and Excellence in RPA and Data Science
 
----
-
-![google](https://github.com/user-attachments/assets/fcbd614a-f487-4594-a35c-78181dc09ec5)
-
 ---   
 
 First of all, if you're curious about my projects you can check out my projects i have done :
@@ -283,6 +279,8 @@ of my contributions.
 ---
 
 # An Invitation Message to assemble our power
+
+![google](https://github.com/user-attachments/assets/fcbd614a-f487-4594-a35c-78181dc09ec5)
 
 As a professional, I stands out for my holistic approach combining deep technical knowledge, analytical rigor, and a clear understanding of business objectives to create solutions that are both innovative and practical. My personal brand is built on a foundation of measurable impact, strategic insight, and a passion for driving digital transformation. I invites you to connect and explore opportunities to collaborate, innovate, and achieve excellence together. My journey is not just about technology it’s about creating meaningful change and delivering value that resonates across teams and organizations. 
 
