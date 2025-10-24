@@ -1,4 +1,4 @@
-# Farhan Fadillah: A Journey of Innovation and Excellence in RPA and Data Science
+# Farhan Fadillah: A Journey of Innovation and Excellence in RPA, Data Science, and AI Strategic
 
 ---
 
