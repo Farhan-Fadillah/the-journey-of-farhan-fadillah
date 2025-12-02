@@ -299,11 +299,12 @@ I led a series of specialized AI training programs, designed to elevate digital 
 
 I developed AI adoption frameworks that addressed organizational challenges with a strategic lens—focusing on operational efficiency, decision-making accuracy, and sustainable automation. Along with this, I built comprehensive AI implementation roadmaps, emphasizing scalable architectures, governance standards, and cross-process automation opportunities.
 Throughout various workshops, I guided participants through critical topics such as:
-•	Strategic automation
-•	Ethical and responsible AI deployment
-•	Data governance and security
-•	Prompt engineering
-•	LLM-powered workflow optimization
+- Strategic automation with AI
+- Ethical and responsible AI deployment
+- Data governance and security
+- Prompt engineering
+- LLM-powered workflow optimization
+- Framework and Blueprint Analysis
 
 Close collaboration with executive leaders ensured that each AI initiative aligned with institutional KPIs, long-term transformation goals, and risk management requirements.
 For every engagement, I delivered impact assessments and performance analytics that demonstrated clear improvements in productivity, operational efficiency, and reduced manual workloads.
