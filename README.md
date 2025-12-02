@@ -20,14 +20,9 @@ First of all, if you're curious about my projects you can check out my projects 
 ---
 # Already checked out the project lists? Let's get into the story!
 
-My professional journey is a compelling narrative of
-continuous growth, technical mastery, and impactful contributions across
-the fields of Robotic Process Automation (RPA), data science, and
-backend development. Over the years, I have carved a distinctive
-path marked by a deep commitment to leveraging technology to solve
-complex business challenges, streamline operations, and drive
-measurable improvements in efficiency and accuracy. my career
-trajectory reflects a dynamic blend of hands-on technical expertise and
+My professional journey is a compelling narrative of continuous growth, technical mastery, and impactful contributions across the fields of Robotic Process Automation (RPA), Data Science, Backend Development, and AI Strategic Consulting.
+
+I’ve carved a unique path that merges automation, analytics, and strategic AI implementation—helping organizations solve complex operational challenges, accelerate productivity, and adopt modern digital transformation practices my career trajectory reflects a dynamic blend of hands-on technical expertise and
 strategic insight, positioning me as a forward-thinking professional who
 thrives at the intersection of automation and data-driven decisionmaking.
 
@@ -283,6 +278,33 @@ of my contributions.
 ![alteryx](https://github.com/Farhan-Fadillah/picture_list/blob/e55e0fbf525d6545640e5f467626cb38759bfffc/alteryx.png)
 
 ---
+
+# AI Strategic Journey
+“Becoming the AI Strategist that bridges technology, automation, and national-scale digital transformation.”
+Beginning in 2025, I expanded my career into AI Strategic Consulting, working with government institutions, financial authorities, and regional banks to guide them through responsible and scalable AI adoption.
+
+### AI & Automation Strategic Consultant — Nawala Integra Nusantara
+
+Stepping into the realm of AI Strategy marked a pivotal turning point in my professional journey. During this phase, I had the privilege of delivering high-impact AI consultation, capability development, and strategic automation guidance to national-level institutions—including the Ministry of Communications and Informatics (Kominfo), Bank Indonesia, and multiple Regional Development Banks (BPD).
+This role expanded my scope far beyond technical implementation. It allowed me to help organizations understand how AI can fundamentally reshape their operational landscape, enhance strategic decision-making, and accelerate digital transformation at scale.
+
+Key Contributions in My AI Strategic Journey:
+I led a series of specialized AI training programs, designed to elevate digital maturity across government and financial sectors. These initiatives empowered cross-functional teams to adopt AI-driven approaches and integrate modern automation into their daily workflows.
+
+I developed AI adoption frameworks that addressed organizational challenges with a strategic lens—focusing on operational efficiency, decision-making accuracy, and sustainable automation. Along with this, I built comprehensive AI implementation roadmaps, emphasizing scalable architectures, governance standards, and cross-process automation opportunities.
+Throughout various workshops, I guided participants through critical topics such as:
+•	Strategic automation
+•	Ethical and responsible AI deployment
+•	Data governance and security
+•	Prompt engineering
+•	LLM-powered workflow optimization
+
+Close collaboration with executive leaders ensured that each AI initiative aligned with institutional KPIs, long-term transformation goals, and risk management requirements.
+For every engagement, I delivered impact assessments and performance analytics that demonstrated clear improvements in productivity, operational efficiency, and reduced manual workloads.
+
+One of the most meaningful aspects of this role has been contributing to Indonesia’s growing national AI capabilities—mentoring professionals, shaping responsible AI practices, and supporting organizations in modernizing through automation and data-driven strategies.
+
+
 
 # An Invitation Message to assemble our power
 
