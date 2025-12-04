@@ -17,6 +17,8 @@ First of all, if you're curious about my projects you can check out my projects 
 
 5. Sales Prediction Project for Supply Chain Management (SCM) Optimization [Click Here](https://github.com/Farhan-Fadillah/scm_sales_prediction.git)
 
+6. ROI Prediction Modelling in Retail Industry [Click Here](https://github.com/Farhan-Fadillah/ROI-Prediction-Modelling.git)
+
 ---
 # Already checked out the project lists? Let's get into the story!
 
