@@ -289,7 +289,7 @@ Beginning in 2025, I expanded my career into AI Strategic Consulting, working wi
 
 ![AI1](https://github.com/Farhan-Fadillah/picture_list/blob/84d33cf22391a7c45127631cf11acde42b693de5/AI%20STRATEGIC%201.jpg)
 
-Stepping into the realm of AI Strategy marked a pivotal turning point in my professional journey. During this phase, I had the privilege of delivering high-impact AI consultation, capability development, and strategic automation guidance to national-level institutions—including the Ministry of Communications and Informatics (Kominfo), Bank Indonesia, and multiple Regional Development Banks (BPD).
+Stepping into the realm of AI Strategy marked a pivotal turning point in my professional journey. During this phase, I had the privilege of delivering high-impact AI consultation, capability development, and strategic automation guidance to national-level institutions including the Ministry of Communications and Informatics (Kominfo), Bank Indonesia, and multiple Regional Development Banks (BPD).
 This role expanded my scope far beyond technical implementation. It allowed me to help organizations understand how AI can fundamentally reshape their operational landscape, enhance strategic decision-making, and accelerate digital transformation at scale.
 
 ![AI2](https://github.com/Farhan-Fadillah/picture_list/blob/84d33cf22391a7c45127631cf11acde42b693de5/AI%20STRATEGIC%202.jpg)
@@ -299,7 +299,7 @@ I led a series of specialized AI training programs, designed to elevate digital 
 
 ![AI3](https://github.com/Farhan-Fadillah/picture_list/blob/84d33cf22391a7c45127631cf11acde42b693de5/AI%20STRATEGIC%203.jpg)
 
-I developed AI adoption frameworks that addressed organizational challenges with a strategic lens—focusing on operational efficiency, decision-making accuracy, and sustainable automation. Along with this, I built comprehensive AI implementation roadmaps, emphasizing scalable architectures, governance standards, and cross-process automation opportunities.
+I developed AI adoption frameworks that addressed organizational challenges with a strategic lens focusing on operational efficiency, decision making accuracy, and sustainable automation. Along with this, I built comprehensive AI implementation roadmaps, emphasizing scalable architectures, governance standards, and cross-process automation opportunities.
 Throughout various workshops, I guided participants through critical topics such as:
 - Strategic automation with AI
 - Ethical and responsible AI deployment
